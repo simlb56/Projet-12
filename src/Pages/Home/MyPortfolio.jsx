@@ -90,7 +90,7 @@ export default function MyPortfolio() {
                   
                 </div>
                 <p className="text-sm portfolio--link">
-                  <a href={item.lien}>
+                  <a href={item.lien} target="_blank" rel="noopener noreferrer">
                     Github
                     <svg
                       xmlns="http://www.w3.org/2000/svg"
@@ -108,7 +108,7 @@ export default function MyPortfolio() {
                       />
                     </svg>
                   </a>
-                  <a href={item.site}> site 
+                  <a href={item.site} target="_blank" rel="noopener noreferrer"> site 
                   <svg
                       xmlns="http://www.w3.org/2000/svg"
                       width="12"

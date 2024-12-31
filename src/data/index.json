@@ -42,7 +42,7 @@
       "description": "site qui permet de fournir une plateforme réactive et sécurisée permettant aux utilisateurs de gérer leur authentification, d'accéder à leur profil, et éventuellement de gérer leurs transactions financières.",
       "link": " Github",
       "lien" : "https://github.com/simlb56/Projet-10",
-      "site" : "https://github.com/simlb56/Projet-10",
+      "site" : "https://projet-10-y1zi.vercel.app/",
       "languages": ["React", "Redux"]
       
     },
@@ -63,7 +63,7 @@
       "description": " Le site web de Kasa est une plateforme conviviale permettant de rechercher et de réserver des hébergements entre particuliers, tels que des appartements.",
       "link": "View In Github",
       "lien" : "https://github.com/simlb56/Projet-7",
-      "site" : "https://github.com/simlb56/Projet-7",
+      "site" : "https://kasa-projet7.vercel.app/",
       "languages": ["SASS", "React"]
      
     },
@@ -74,7 +74,7 @@
       "description": "Un site permettant aux usagers de trouver des hébergements et des activités dans leur ville de choix.Transformer les maquettes desktop,tablette et mobile en code HTML et CSS",
       "link": "View In Github",
       "lien" : "https://github.com/simlb56/Projet-3",
-      "site" : "http://127.0.0.1:5500/Booki/index.html",
+      "site" : "https://projet-3-kohl.vercel.app",
       "languages": ["HTML", "CSS"]
    
     },
@@ -84,8 +84,8 @@
       "title": "Nina Carducci",
       "description": "Améliorer le référencement du site, en augmentant sa visibilité auprès des clients potentiels.La fourniture du code est optimisé avec un rapport de performance pour démontrer les résultats.",
       "link": "View In Github",
-      "lien" : "https://github.com/simlb56/Projet-6",
-      "site" : "https://github.com/simlb56/Projet-6",
+      "lien" : "https://github.com/simlb56/Projet-8",
+      "site" : "https://simlb56.github.io/Projet-8/",
       "languages": ["Optimisez le SEO"]
     },
     {
@@ -95,7 +95,7 @@
       "description": "Ce site web  sert de vitrine en ligne pour l'agence événementielle. Il doit présenter de manière attrayante les services et les événements proposés par l'agence.",
       "link": "View In Github",
       "lien" : "https://github.com/simlb56/Projet-9",
-      "site" : "https://github.com/simlb56/Projet-9",
+      "site" : "https://projet-9-ll5h.vercel.app/",
       "languages": ["React"]
     }
   ]

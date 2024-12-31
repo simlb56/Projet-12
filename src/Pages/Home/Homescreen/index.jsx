@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import AboutMe from "../AboutMe";
 import ContactMe from "../ContactMe";
 import Footer from "../../../components/Footer";
-import HeroSection from "../HeroSection";
+import Header from "../../../components/Header";
 import MyPortfolio from "../MyPortfolio";
 import MySkills from "../MySkills";
 import Navbar from "../../../components/Navbar";
@@ -28,7 +28,7 @@ export default function Home() {
         // Sinon, affiche le contenu de la page Home
         <>
           <Navbar />
-          <HeroSection />
+          <Header />
           <MySkills />
           <AboutMe />
           <MyPortfolio />
